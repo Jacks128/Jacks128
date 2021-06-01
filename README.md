@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **jackelinebenitez112@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jackeline-benitez-90386a1a4/](https://www.linkedin.com/in/jackeline-benitez-90386a1a4/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
