@@ -1,14 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Jacky</h1>
 <h3 align="center">An enthusiastic System Engineer Student from Guatemala</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jacks128&label=Visitors&color=9782e3&style=flat-square" alt="jacks128" /> </p>
+
 - 📫 How to reach me **jackelinebenitez112@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jackeline-benitez-90386a1a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jackeline-benitez-90386a1a4/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jackeline benitez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jackeline benitez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
