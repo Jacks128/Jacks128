@@ -12,10 +12,10 @@
 <img align="right"  src="https://github.com/Jacks128/Jacks128/blob/main/proudtobeme.jpg" width="250px"/>
  :computer: Currently I'm Science and System Engineer Student from Universidad de San Carlos de Guatemala. <br>
  :woman_teacher: Enjoy teach math, physics and english to kids and teenagers. <br>
- :boot: I love sales, I am an entrepreneur in progress since August, 2020. <br>
+ :boot: I love sales and do craft, I am an entrepreneur in progress since August, 2020. <br>
  :mag_right: I'm looking for opportunitties to study in another country, and specialize on Data Bases or Informatic Security <br>
  :shipit:  In a future I would like to give conferences about Informatic Topics, I consideer me very expressfull, and friendly <br>
- :woman_cartwheeling: I enjoy my free time watching a series, doing exercise or sharing time with my family
+ :woman_cartwheeling: I enjoy my free time watching series, doing exercise or sharing time with my family
 
  
 
